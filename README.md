@@ -1,1 +1,1 @@
-# This is the code for the reproduction and extension of the paper Robust Fair Clustering: A Novel Fairness Attack and Defense Framework by Chhabra et al. The original codebase can be found at anshuman23/CFC.
+# This is the code for the reproduction and extension of the paper Robust Fair Clustering: A Novel Fairness Attack and Defense Framework by Chhabra et al. The original codebase can be found at anshuman23/CFC. The paper my goup published can be found at: https://openreview.net/forum?id=Xu1sEPhjqH
