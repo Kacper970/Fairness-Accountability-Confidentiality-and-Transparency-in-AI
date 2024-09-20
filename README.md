@@ -1,1 +1,1 @@
-# Fairness-Accountability-Confidentiality-and-Transparency-in-AI
+# This is the code for the reproduction and extension of the paper Robust Fair Clustering: A Novel Fairness Attack and Defense Framework by Chhabra et al. The original codebase can be found at anshuman23/CFC.
